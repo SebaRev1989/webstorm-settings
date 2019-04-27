@@ -1,2 +1,2 @@
-# webstorm-settings
+# Webstorm settings
 Personal WebStorm settings
